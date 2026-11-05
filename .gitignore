@@ -15,7 +15,7 @@ expo-env.d.ts
 *.jks
 *.p8
 *.p12
-*.key
+*.keyia
 *.mobileprovision
 
 # Metro
@@ -39,3 +39,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+# Environment variables
+.env
+.env.*
+!.env.example
