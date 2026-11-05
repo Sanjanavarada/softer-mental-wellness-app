@@ -50,8 +50,7 @@ professional mental healthcare.
 ## App Screenshots 📱
 
 ### 1. Welcome & Personalization
-![Softer Welcome](screenshots/welcome.png)
-
+![Softer Welcome](screenshots/Login%20in%20Page.PNG)
 ### 2. Home Screen
 ![Softer Home](screenshots/home-1.png)
 
