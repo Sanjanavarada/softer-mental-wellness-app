@@ -46,3 +46,28 @@ Prototype under active development.
 This application is designed for emotional self-reflection
 and does not provide medical diagnoses or replace
 professional mental healthcare.
+
+## App Screenshots 📱
+
+### 1. Welcome & Personalization
+![Softer Welcome](screenshots/welcome.png)
+
+### 2. Home Screen
+![Softer Home](screenshots/home-1.png)
+
+![Softer Home Continued](screenshots/home-2.png)
+
+### 3. My Journal
+![Softer Journal](screenshots/journal.png)
+
+### 4. Mind Lab
+![Softer Mind Lab](screenshots/mind-lab.png)
+
+### 5. Little Escapes
+![Softer Mini Games](screenshots/games.png)
+
+### 6. Listening Room
+![Softer Listening Room](screenshots/listening.png)
+
+### 7. My Space
+![Softer Profile](screenshots/profile.png)
